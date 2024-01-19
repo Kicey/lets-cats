@@ -1,0 +1,1 @@
+* A semigroup is just the combine part of a monoid, without the empty part. While many semigroups are also monoids, there are some data types for which we cannot define an empty element.
