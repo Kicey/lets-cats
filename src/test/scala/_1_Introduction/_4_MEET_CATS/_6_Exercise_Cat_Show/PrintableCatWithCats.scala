@@ -1,4 +1,4 @@
-package _1_Theory._4_MEET_CATS._6_Exercise_Cat_Show
+package _1_Introduction._4_MEET_CATS._6_Exercise_Cat_Show
 
 import org.scalatest.flatspec.AnyFlatSpec
 

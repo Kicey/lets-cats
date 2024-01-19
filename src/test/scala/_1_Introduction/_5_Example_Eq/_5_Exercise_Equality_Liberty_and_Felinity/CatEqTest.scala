@@ -1,4 +1,4 @@
-package _1_Theory._5_Example_Eq._5_Exercise_Equality_Liberty_and_Felinity
+package _1_Introduction._5_Example_Eq._5_Exercise_Equality_Liberty_and_Felinity
 
 import cats.Eq
 import org.scalatest.flatspec.AnyFlatSpec

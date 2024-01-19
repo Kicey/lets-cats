@@ -1,4 +1,4 @@
-package _1_Theory._6_Controlling_Instance_Selection
+package _1_Introduction._6_Controlling_Instance_Selection
 
 sealed trait A
 final case object B extends A

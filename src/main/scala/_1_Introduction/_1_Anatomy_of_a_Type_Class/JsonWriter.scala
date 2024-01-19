@@ -1,4 +1,4 @@
-package _1_Theory._1_Anatomy_of_a_Type_Class
+package _1_Introduction._1_Anatomy_of_a_Type_Class
 
 // Define a very simple JSON AST
 sealed trait Json

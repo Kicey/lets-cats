@@ -1,4 +1,4 @@
-package _1_Theory._3_Exercise_Printable_Library
+package _1_Introduction._3_Exercise_Printable_Library
 
 trait Printable[A]:
   def format(value: A): String

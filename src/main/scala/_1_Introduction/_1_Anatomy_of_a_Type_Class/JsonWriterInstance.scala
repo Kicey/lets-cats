@@ -1,4 +1,4 @@
-package _1_Theory._1_Anatomy_of_a_Type_Class
+package _1_Introduction._1_Anatomy_of_a_Type_Class
 
 final case class Person(name: String, email: String)
 

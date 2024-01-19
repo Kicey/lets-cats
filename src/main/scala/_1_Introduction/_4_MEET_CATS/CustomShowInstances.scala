@@ -1,4 +1,4 @@
-package _1_Theory._4_MEET_CATS
+package _1_Introduction._4_MEET_CATS
 
 import cats.Show
 
